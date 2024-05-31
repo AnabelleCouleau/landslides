@@ -1,26 +1,41 @@
-# Landlides in Colombia Data Visualization, 1998-2022
+# Landslides in Colombia: Data Visualization (1998-2022)
 
-When I first visited Colombia, I was striked by how much landslides affecting roads are part of the everyday life of Colombians, and landslides disaster risks in general. By exploring the data from the Colombian Disaster Risk unit (UNGRD), I wanted to understand the link between landslides and rural urbanizations.
+During my first visits to Colombia, I was struck by the prevalence of landslides affecting roads and the significant impact of landslide disaster risks on daily life. By exploring data from the Colombian Disaster Risk Management Unit (UNGRD), I aimed to understand the relationship between landslides and rural urbanization.
 
-Urbanization in the tropics can accelerate the movement of large landslides [Dill et al., 2022](https://www.nature.com/articles/s41561-022-01073-3). The sprawl of urbanized areas can lead to the acceleration of landslide, driven by changes to slope hydrology associated with urbanization such as rerouting of surface water flows and leaky underground infrastructure. Slums, which account for a significant proportion of urban expansion in many developing economies, are often located in areas of high disaster risks such as landslides. Worsening environmental conditions in rural areas can also increase unplanned peri-urban development on unstable slopes. 
+Urbanization in tropical regions can accelerate large landslides [Dill et al., 2022](https://www.nature.com/articles/s41561-022-01073-3). The expansion of urban areas often exacerbates landslide risks due to changes in slope hydrology caused by rerouted surface water flows and leaky underground infrastructure. Slums, which make up a substantial portion of urban growth in many developing countries, are frequently situated in high-risk areas for disasters like landslides. Additionally, worsening environmental conditions in rural regions can drive unplanned peri-urban development on unstable slopes.
 
--	I first made a map of the landslides from 1998 to 2022, to vizualise the most affected region in the country. According to the Colombian National Administrative Department of Statistics (DANE), in 2020, approximately 44.5% of the country's population resided in the Andean region, which includes the departments of Antioquia, Boyacá, Cundinamarca, & Santander
+## Visualizations
+
+### 1. Landslides from 1998 to 2022
+
+I created a map illustrating landslides across Colombia from 1998 to 2022 to identify the most affected regions. According to the Colombian National Administrative Department of Statistics (DANE), in 2020, approximately 44.5% of the population lived in the Andean region, encompassing the departments of Antioquia, Boyacá, Cundinamarca, and Santander.
 
 ![Number of Landslides by Municipality](https://github.com/AnabelleCouleau/landslides/blob/main/landslides_mun.png)
 
-If you look at the same map with landslides that only affect roads and transportation systems, you see a similar distribution. 
+### 2. Landslides Affecting Roads
+
+A map focusing on landslides that impact roads and transportation systems shows that such landslides are widespread across the country, highlighting their potential to disrupt transportation and incur significant costs.
 
 ![Number of Landslides affecting roads only by Municipality](https://github.com/AnabelleCouleau/landslides/blob/main/landslides_mun_roads.png)
 
--	To identify more clearly which region and they number of events, I made the following barplot. You can see that Antioquia, Boyacá, Cundinamarca, & Santander are the most affected departments. 
+### 3. Landslides by Department
+
+To pinpoint the most affected regions, I created a bar plot showing the number of landslides by department. Antioquia, Boyacá, Cundinamarca, and Santander emerge as the most affected.
 
 ![Landslides by Department](https://github.com/AnabelleCouleau/landslides/blob/main/landslides_by_dept.png)
 
--	Distribution of Landslides across municipalities in the top 3 most affected department. From this graph we can observe that Antioquia has a lot of municipalities affected by a small number of derrumbe during the period 1998-2022, while Boyaca and Cundinamarca have a smaller number of municipalities affected by a large number of landslides, i.e. landslides are more concentrated spatially in some municipalities in Boyaca and Cundinamarca
+### 4. Distribution of Landslides in Top 3 Departments
+
+This graph illustrates the distribution of landslides across municipalities in the top three most affected departments. Antioquia has many municipalities with a small number of landslides, whereas Boyacá and Cundinamarca have fewer municipalities with a higher concentration of landslides.
 
 ![Landslides by Department](https://github.com/AnabelleCouleau/landslides/blob/main/landslides_dist_top3.png)
 
+### 5. Landslides and Rural Population
 
--	Landslides by municipalities and rural population. There seems to have a positive relationship between the two. Of course, this is just a visualization, causes and predictions of landslides depends on other many factors.  
+This visualization suggests a positive relationship between landslides and rural population. However, it is important to note that the causes and predictions of landslides depend on numerous other factors.
 
 ![Landslides by Department](https://github.com/AnabelleCouleau/landslides/blob/main/landslides_plot.png)
+
+---
+
+By examining these visualizations, we gain insight into the geographic and demographic patterns of landslides in Colombia. This understanding is crucial for developing effective disaster risk management strategies and mitigating the impacts of landslides on communities and infrastructure.
