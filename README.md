@@ -14,7 +14,7 @@ If you look at the same map with landslides that only affect roads and transport
 
 ![Landslides by Department](https://github.com/AnabelleCouleau/landslides/blob/main/landslides_by_dept.png)
 
--	Distribution of Landslides across municipalities in the top 3 most affected department. From this graph we can observe that Antioquia has a lot of municipalities affected by a small number of derrumbe during the period 1998-2022, while Boyaca and Cundinamarca have a smaller number of municipalities affected by a large number of landslides, that is landslides is more concentrated spatially in some municipalities in Boyaca and Cundinamarca
+-	Distribution of Landslides across municipalities in the top 3 most affected department. From this graph we can observe that Antioquia has a lot of municipalities affected by a small number of derrumbe during the period 1998-2022, while Boyaca and Cundinamarca have a smaller number of municipalities affected by a large number of landslides, i.e. landslides are more concentrated spatially in some municipalities in Boyaca and Cundinamarca
 
 ![Landslides by Department](https://github.com/AnabelleCouleau/landslides/blob/main/landslides_dist_top3.png)
 
