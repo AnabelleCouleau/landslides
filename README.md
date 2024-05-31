@@ -16,7 +16,7 @@ I created a map illustrating landslides across Colombia from 1998 to 2022 to ide
 
 A map focusing on landslides that impact roads and transportation systems shows that such landslides are widespread across the country, highlighting their potential to disrupt transportation and incur significant costs.
 
-![Number of Landslides affecting roads only by Municipality](https://github.com/AnabelleCouleau/landslides/blob/main/landslides_mun_roads.png)
+![Number of Landslides affecting at least one road by Municipality](https://github.com/AnabelleCouleau/landslides/blob/main/landslides_mun_roads.png)
 
 ### 3. Landslides by Department
 
