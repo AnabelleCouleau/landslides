@@ -190,7 +190,7 @@ pmap <- ggplot(colombia_landslides$geometry) +
   geom_sf(aes(fill = colombia_landslides$landslides_num), lwd = 0.05, color = "white") +
   scale_fill_fermenter(
     name = "",
-    breaks = seq(5, 180, 25),
+    breaks = seq(5, 45, 5),
     direction = 1,
     palette = "YlGnBu"
   ) +
