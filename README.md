@@ -1,3 +1,5 @@
+# Landlides in Colombia Data Visualization, 1998-2022
+
 When I first visited Colombia, I was striked by how much landslides affecting roads are part of the everyday life of Colombians, and landslides disaster risks in general. By exploring the data from the Colombian Disaster Risk unit (UNGRD), I wanted to understand the link between landslides and rural urbanizations.
 
 Urbanization in the tropics can accelerate the movement of large landslides [Dill et al., 2022](https://www.nature.com/articles/s41561-022-01073-3). The sprawl of urbanized areas can lead to the acceleration of landslide, driven by changes to slope hydrology associated with urbanization such as rerouting of surface water flows and leaky underground infrastructure. Slums, which account for a significant proportion of urban expansion in many developing economies, are often located in areas of high disaster risks such as landslides. Worsening environmental conditions in rural areas can also increase unplanned peri-urban development on unstable slopes. 
